@@ -1,0 +1,18 @@
+.note{
+    border: 2px solid black;
+    border-radius: 4px;
+    border-color: rgb(31, 31, 31);
+    background-color: rgb(231, 231, 231);
+    padding : 15px;
+    margin-bottom: 15px;
+}
+.note h3{
+    text-align: left;
+    margin-left : 15px;
+}
+.answers-container{
+    width:80%;
+    max-width: 15em;
+    margin:auto;
+    margin-top: 5%;
+}
